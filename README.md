@@ -14,5 +14,5 @@ of rest each team had before the game) had no impact on our model's accuracy or 
 Next, we used decision trees to analyze potential nonlinear relationships between variables. While our decision tree model was more predictively powerful than our regression models, 
 it similarly found no difference in models that considered rest days as numeric as compared to categorical, and rest days was considered a relatively unimportant predictor.
 
-This repository includes our Google Slides presentation sharing the details behind our process and results and the code (written in R) used to create the models and do the analysis. 
+This repository includes our Google Slides presentation sharing the details behind our process and results, the code (written in R) used to create the models and do the analysis, and the data we considered. 
 If you have any questions or are interested in our process, data, models, code, or analysis, please do not hesitate to reach out!
