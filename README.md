@@ -1,6 +1,6 @@
 # NFL Rest Days Effects on Injuries
 
-Project with William Gibbs, as a part of the Stat 306: Multivariate Sports Analytics class with Professor Bradley A. Hartlaub at Kenyon College. February 9th, 2024
+Project with Will Gibbs, as a part of the Stat 306: Multivariate Sports Analytics class with Professor Bradley A. Hartlaub at Kenyon College. February 9th, 2024
 
 In this project, Will and I analyzed whether or not there are more injuries in NFL games when players are given less rest in between games, such as on Thursday night games, 
 as compared to the normal Sunday night games. Specifically, we compared the results of considering days of rest between games as a categorical variable (as was done in the previous
